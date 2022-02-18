@@ -1,0 +1,588 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<ttl>60</ttl>
+<title>Strong Bad Emails & More!</title>
+<link>https://podstarrunner.netlify.com</link>
+<language>en-us</language>
+<copyright>℗ & © 2006 homestarrunner.com</copyright>
+<itunes:subtitle>HomestarRunner.com</itunes:subtitle>
+<itunes:author>HomestarRunner.com: Video</itunes:author>
+<itunes:summary>
+Strong Bad answers real emails from real morons, draws his independent comic "Teen Girl Squad!" and lots freaking more!
+</itunes:summary>
+<description>
+Strong Bad answers real emails from real morons, draws his independent comic "Teen Girl Squad!" and lots freaking more! (Remake)
+</description>
+<itunes:owner>
+<itunes:name>www.homestarrunner.com</itunes:name>
+<itunes:email>podstar@homestarrunner.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://iili.io/1nj6aR.png"/>
+<itunes:category text="Comedy"/>
+<itunes:explicit>No</itunes:explicit>
+
+<item>
+<title>Caper</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>Jumble Caper! The Cheat is not dead.</itunes:summary>
+<enclosure url="https://blissful-goldstine-1aa7fa.netlify.app/Caper.m4v" length="3678208" type="audio/x-m4v"/>
+<guid>
+https://blissful-goldstine-1aa7fa.netlify.app/Caper.m4v
+</guid>
+<pubDate>Mon, 23 Jan 2006 12:00:00 GMT</pubDate>
+<itunes:duration>1:17</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, sbemail, techno
+</itunes:keywords>
+</item>
+<item>
+<title>Techno</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>Some bozo asks about techno music.</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_techno.m4v" length="3678208" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_techno.m4v
+</guid>
+<pubDate>Mon, 23 Jan 2006 12:00:00 GMT</pubDate>
+<itunes:duration>1:17</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, sbemail, techno
+</itunes:keywords>
+</item>
+<item>
+<title>Japanese Cartoon</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>Strong Bad makes up his own japanese cartoon.</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_japanese_cartoon.m4v" length="6127616" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_japanese_cartoon.m4v
+</guid>
+<pubDate>Tue, 24 Jan 2006 12:00:00 GMT</pubDate>
+<itunes:duration>2:20</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, sbemail, japanese cartoon, anime
+</itunes:keywords>
+</item>
+<item>
+<title>Dragon</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>Strong Bad starts a bad drawing revolution.</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_trogdor.m4v" length="9789440" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_trogdor.m4v
+</guid>
+<pubDate>Wed, 25 Jan 2006 12:00:00 GMT</pubDate>
+<itunes:duration>3:44</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, sbemail, trogdor, burninate, peasants
+</itunes:keywords>
+</item>
+<item>
+<title>Virus</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>A virus wreaks havoc on the Compy.</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_virus.m4v" length="11182080" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_virus.m4v
+</guid>
+<pubDate>Mon, 20 Feb 2006 12:00:00 GMT</pubDate>
+<itunes:duration>4:23</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, sbemail, virus, compy
+</itunes:keywords>
+</item>
+<item>
+<title>Guitar</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+Ol' SB teaches you everything you need to know about shredding hot lixx.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_guitar.m4v" length="7303168" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_guitar.m4v
+</guid>
+<pubDate>Sun, 26 Feb 2006 12:00:00 GMT</pubDate>
+<itunes:duration>1:49</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, sbemail, guitar
+</itunes:keywords>
+</item>
+<item>
+<title>Video Games</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+Strong Bad goes cross-platform with bad video game ideas.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_video_games.m4v" length="8773632" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_video_games.m4v
+</guid>
+<pubDate>Sun, 5 Mar 2006 12:00:00 GMT</pubDate>
+<itunes:duration>3:15</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, sbemail, video games, thy dungeonman, rhinofeeder, asplode
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #1</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>
+Four teenage girls shop, socialize, and get offed in amusing ways.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS1.m4v" length="1830912" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS1.m4v</guid>
+<pubDate>Mon, 6 Mar 2006 12:00:00 GMT</pubDate>
+<itunes:duration>1:16</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #2</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>Four teenage girls try their best to look so good.</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS2.m4v" length="1798144" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS2.m4v</guid>
+<pubDate>Mon, 6 Mar 2006 12:00:00 GMT</pubDate>
+<itunes:duration>1:13</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #3</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>
+Four teenage girls shop for summer fashions and pan-asian cuisine.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS3.m4v" length="2527232" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS3.m4v</guid>
+<pubDate>Mon, 6 Mar 2006 12:00:00 GMT</pubDate>
+<itunes:duration>1:44</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #4</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>
+Four teenage girls go back to school and get offed in amusing ways.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS4.m4v" length="3260416" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS4.m4v</guid>
+<pubDate>Mon, 6 Mar 2006 12:00:00 GMT</pubDate>
+<itunes:duration>2:30</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #5</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>
+Four teenage girls on Spring Type Break dream of reaching foist base.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS5.m4v" length="3256320" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS5.m4v</guid>
+<pubDate>Mon, 6 Mar 2006 12:00:00 GMT</pubDate>
+<itunes:duration>2:22</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Everybody to the Limit</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Come on Fhqwhgads</itunes:subtitle>
+<itunes:summary>
+The Cheat directs a video for Strong Bad's Number One Summer Jam.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/everybody_to_the_limit.m4v" length="7577600" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/everybody_to_the_limit.m4v
+</guid>
+<pubDate>Wed, 12 Apr 2006 12:00:00 GMT</pubDate>
+<itunes:duration>2:11</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, fhqwhgads, everybody to the limit
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #6</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>Secret Decemberween Gift Exchange!!</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS6.m4v" length="2334720" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS6.m4v</guid>
+<pubDate>Mon, 24 Apr 2006 12:00:00 GMT</pubDate>
+<itunes:duration>1:41</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #7</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>Teeny Tiny Girl Squad!!</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS7.m4v" length="3235840" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS7.m4v</guid>
+<pubDate>Mon, 24 Apr 2006 12:00:00 GMT</pubDate>
+<itunes:duration>2:21</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #8</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>Battle of the Bands!</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS8.m4v" length="4468736" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS8.m4v</guid>
+<pubDate>Wed, 03 May 2006 12:00:00 GMT</pubDate>
+<itunes:duration>3:20</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #9</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>The Tyranny Is Over!</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS9.m4v" length="3416064" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS9.m4v</guid>
+<pubDate>Wed, 03 May 2006 12:00:00 GMT</pubDate>
+<itunes:duration>2:37</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #10</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>a B'GRL PRTY??!?</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS10.m4v" length="7867686" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS10.m4v</guid>
+<pubDate>Mon, 22 May 2006 12:00:00 GMT</pubDate>
+<itunes:duration>4:20</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Theme Park</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+Strong Bad builds a theme park and Strong Sad gets decked.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_theme_park.m4v" length="11394036" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_theme_park.m4v
+</guid>
+<pubDate>Tue, 6 June 2006 12:00:00 GMT</pubDate>
+<itunes:duration>4:34</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, theme park, trogdor, riverquest safariventure
+</itunes:keywords>
+</item>
+<item>
+<title>Peasant's Quest Game</title>
+<itunes:author>Videlectrix</itunes:author>
+<itunes:subtitle>Homestarrunner.com</itunes:subtitle>
+<itunes:summary>
+Videlectrix unveils a textastic computer game set in the Trogdor universe!
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/pqtrailer.m4v" length="4291199" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/pqtrailer.m4v</guid>
+<pubDate>Thurs, 27 July 2006 12:00:00 GMT</pubDate>
+<itunes:duration>2:00</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Trogdor, Videlectrix, Peasant's Quest
+</itunes:keywords>
+</item>
+<item>
+<title>Geddup Noise</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+SB tells the tale of the mysterious wood-scrapey sound his stool makes when he gets up even though his floor is carpeted.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_geddupnoise.m4v" length="7551361" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_geddupnoise.m4v
+</guid>
+<pubDate>Fri, 6 Oct 2006 12:00:00 GMT</pubDate>
+<itunes:duration>3:57</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Geddup Noise, DJ Teh Cheat
+</itunes:keywords>
+</item>
+<item>
+<title>Alternate Universe</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+The Cheat puts a Gameboy in a blender and Strong Bad dimension jumps all over the place, visiting his favorite dopplegangers.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_altuniverse.m4v" length="18638471" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_altuniverse.m4v
+</guid>
+<pubDate>Thurs, 19 Oct 2006 12:00:00 GMT</pubDate>
+<itunes:duration>6:14</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, alternate universe, stinkoman, senor cardgage, strong badman
+</itunes:keywords>
+</item>
+<item>
+<title>Malloween Commercial</title>
+<itunes:author>Fluffy Puff Marshmallows</itunes:author>
+<itunes:subtitle>HomestarRunner.com</itunes:subtitle>
+<itunes:summary>
+Marshie peddles Halloween themed marshmallows and finally cracks under the pressure!
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/malloween.m4v" length="7514120" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/malloween.m4v</guid>
+<pubDate>Thurs, 26 Oct 2006 12:00:00 GMT</pubDate>
+<itunes:duration>1:42</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Marshie, Fluffy Puff Marshmallows, Halloween, Montenegro
+</itunes:keywords>
+</item>
+<item>
+<title>Radio</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>Dead air, um, dead air.</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_radio.m4v" length="9188795" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_radio.m4v
+</guid>
+<pubDate>Thur, 30 Nov 2006 12:00:00 GMT</pubDate>
+<itunes:duration>4:21</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, radio, the sturge
+</itunes:keywords>
+</item>
+<item>
+<title>Spring Cleaning</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+Strong Bad has had enough of you people. Deleted is born.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_springcleaning.m4v" length="6204085" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_springcleaning.m4v
+</guid>
+<pubDate>Thur, 7 Dec 2006 12:00:00 GMT</pubDate>
+<itunes:duration>1:45</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, deleted
+</itunes:keywords>
+</item>
+<item>
+<title>Replacement</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+SB explores the possibility of finding an heir to his email throne.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_replacement.m4v" length="7485810" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_replacement.m4v
+</guid>
+<pubDate>Thur, 11 Jan 2007 12:00:00 GMT</pubDate>
+<itunes:duration>3:22</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, replacement, crapface
+</itunes:keywords>
+</item>
+<item>
+<title>Technology</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>1100011100101100001110101010101100110</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_technology.m4v" length="13909041" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_technology.m4v
+</guid>
+<pubDate>Thur, 18 Jan 2007 12:00:00 GMT</pubDate>
+<itunes:duration>4:22</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, technology, cheatbot
+</itunes:keywords>
+</item>
+<item>
+<title>Haircut</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+Very little hair on the scalps of the Homestar Runner universe.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_haircut.m4v" length="7875091" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_haircut.m4v
+</guid>
+<pubDate>Thur, 1 Feb 2007 12:00:00 GMT</pubDate>
+<itunes:duration>3:19</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, haircut, hammer pants
+</itunes:keywords>
+</item>
+<item>
+<title>Cheat Commandos Commercial</title>
+<itunes:author>Cheap as Free Toys</itunes:author>
+<itunes:subtitle>Cheat Commandos</itunes:subtitle>
+<itunes:summary>Buy all our playsets and toys!</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/ccdos1.m4v" length="6536575" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/ccdos1.m4v</guid>
+<pubDate>Thur, 8 Feb 2007 12:00:00 GMT</pubDate>
+<itunes:duration>2:04</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Cheat Commandos
+</itunes:keywords>
+</item>
+<item>
+<title>Animal</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+Strong Bad makes up gross animals. Enter the Lappy.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_animal.m4v" length="12296890" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_animal.m4v
+</guid>
+<pubDate>Thur, 15 Feb 2007 12:00:00 GMT</pubDate>
+<itunes:duration>4:21</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, animal, sterrance, lappy
+</itunes:keywords>
+</item>
+<item>
+<title>High School</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+Strong Bad makes up a buncha stuff that's not true. Don't you believe a word of it!
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_highschool.m4v" length="10392788" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_highschool.m4v
+</guid>
+<pubDate>Thur, 22 Feb 2007 12:00:00 GMT</pubDate>
+<itunes:duration>3:22</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, high school
+</itunes:keywords>
+</item>
+<item>
+<title>Theme Song</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+Yeah, how come Strong Bad's email show doesn't have a theme song?
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_themesong.m4v" length="16101323" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_themesong.m4v
+</guid>
+<pubDate>Thur, 1 Mar 2007 12:00:00 GMT</pubDate>
+<itunes:duration>4:17</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, theme song, CGNU
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #11</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>
+The goyles go to summa camp. So and So gets a job. Real live paper!
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS11.m4v" length="5468973" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS11.m4v</guid>
+<pubDate>Thurs, 8 Mar 2007 12:00:00 GMT</pubDate>
+<itunes:duration>3:53</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Teen Girl Squad #12</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Teen Girl Squad</itunes:subtitle>
+<itunes:summary>
+It's Vamlumtime's Day. The Wireless Wizard approaches.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/TGS12.m4v" length="5923815" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/TGS12.m4v</guid>
+<pubDate>Thurs, 15 Mar 2007 12:00:00 GMT</pubDate>
+<itunes:duration>3:56</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Teen Girl Squad, Arrowed
+</itunes:keywords>
+</item>
+<item>
+<title>Mile</title>
+<itunes:author>Strong Bad</itunes:author>
+<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+<itunes:summary>
+The Cheat animates his own dang Strong Bad Email. In other news, The Cheat is a millionaire.
+</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/sb_email_mile.m4v" length="8519382" type="audio/x-m4v"/>
+<guid>
+https://podstarrunner.netlify.com/sb_email_mile.m4v
+</guid>
+<pubDate>Thur, 22 Mar 2007 12:00:00 GMT</pubDate>
+<itunes:duration>2:46</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, powered by the cheat, the cheat
+</itunes:keywords>
+</item>
+<item>
+<title>These Peoples Try to Fade Me</title>
+<itunes:author>Coach Z</itunes:author>
+<itunes:subtitle>HomestarRunner.com</itunes:subtitle>
+<itunes:summary>Coach Z drops science, but not much.</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/fademe.m4v" length="11120142" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/fademe.m4v</guid>
+<pubDate>Thur, 5 Apr 2007 12:00:00 GMT</pubDate>
+<itunes:duration>2:29</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Coach Z, Strong Bad Sings
+</itunes:keywords>
+</item>
+<item>
+<title>An Important Rap Song</title>
+<itunes:author>Crack Stuntman</itunes:author>
+<itunes:subtitle>Cheat Commandos</itunes:subtitle>
+<itunes:summary>Crack Stuntman drops science and knife moderation.</itunes:summary>
+<enclosure url="https://podstarrunner.netlify.com/2ManyKnives.m4v" length="9257663" type="audio/x-m4v"/>
+<guid>https://podstarrunner.netlify.com/2ManyKnives.m4v</guid>
+<pubDate>Thur, 26 Apr 2007 12:00:00 GMT</pubDate>
+<itunes:duration>2:01</itunes:duration>
+<itunes:keywords>
+Strong Bad, Homestar Runner, homestarrunner.com, Cheat Commandos, Crack Stuntman
+</itunes:keywords>
+</item>
+</channel>
+</rss>
